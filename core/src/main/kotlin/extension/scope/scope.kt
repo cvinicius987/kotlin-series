@@ -1,11 +1,13 @@
 package extension.scope
 
+
 data class Product(val name:String, val available:Boolean){
 	
 	fun String.formatName() = toUpperCase()
 	
 	fun show(){
-		println("Produto: ${name.formatName()} - Disponível: $available")
+		 		
+		println("Produto: ${name.formatName()} - Disponï¿½vel: $available")
 	}
 }
 
