@@ -1,2 +1,3 @@
 # kotlin-series
-Conteúdo e projetos utilizando a linguagem Kotlin.
+
+Content and projects using Kotlin language.
